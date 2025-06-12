@@ -6,8 +6,8 @@
     <a href="https://github.com/YutingLi0606/Vision-Matters/blob/master/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue">
     </a>
-    <a href="https://arxiv.org/abs/2412.04234">
-        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.04234-red">
+    <a href="http://arxiv.org/abs/2506.09736">
+        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.09736-red">
     </a>
    <a href="https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1">
         <img alt="project webpage" src="https://img.shields.io/badge/Huggingface-Models-yellow">
@@ -63,7 +63,7 @@
 
 
 ## 🎉 Updates
-- [x] **\[2025.06.12\]** Our technical report: <strong>Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning</strong> is available on arXiv.
+- [x] **\[2025.06.12\]** Our technical report: <strong>[Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](http://arxiv.org/abs/2506.09736)</strong> is available on arXiv.
 - [x] **\[2025.06.11\]** We release our [models, datasets](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1) and [codebase](https://github.com/YutingLi0606/Vision-Matters).
 ## 🛠️ Installation
 ### SFT and DPO
@@ -128,7 +128,7 @@ If you use `Vision-Matters` or its methods in your work, please cite the followi
 @article{li2025vision,
   title={Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning},
   author={Li, Yuting and Wei, Lai and Zheng, Kaipeng and Huang, Jingyuan and Kong, Linghe and Sun, Lichao and Huang, Weiran},
-  journal={arXiv preprint arXiv:2505.22453},
+  journal={arXiv preprint arXiv：2506.09736},
   year={2025}
 }
 ```

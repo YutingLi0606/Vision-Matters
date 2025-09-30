@@ -63,6 +63,7 @@
 
 
 ## 🎉 Updates
+- [x] **\[2025.09.30\]** We update our new version: <strong>[Revisiting Visual Understanding in Multimodal Reasoning through a Lens of Image Perturbation](https://arxiv.org/pdf/2506.09736?)</strong>. New models and datasets are available in my [huggingface](https://huggingface.co/collections/Yuting6).
 - [x] **\[2025.06.12\]** Our paper: <strong>[Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](http://arxiv.org/abs/2506.09736)</strong> is available on arXiv.
 - [x] **\[2025.06.11\]** We release our [models, datasets](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1) and [codebase](https://github.com/YutingLi0606/Vision-Matters).
 ## 🛠️ Installation
